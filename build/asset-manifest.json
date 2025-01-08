@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Nouran-s-portfolio/static/css/main.c466a39c.css",
+    "main.js": "/Nouran-s-portfolio/static/js/main.b68b9b5d.js",
+    "static/js/156.687a774f.chunk.js": "/Nouran-s-portfolio/static/js/156.687a774f.chunk.js",
+    "index.html": "/Nouran-s-portfolio/index.html",
+    "main.c466a39c.css.map": "/Nouran-s-portfolio/static/css/main.c466a39c.css.map",
+    "main.b68b9b5d.js.map": "/Nouran-s-portfolio/static/js/main.b68b9b5d.js.map",
+    "156.687a774f.chunk.js.map": "/Nouran-s-portfolio/static/js/156.687a774f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c466a39c.css",
+    "static/js/main.b68b9b5d.js"
+  ]
+}
